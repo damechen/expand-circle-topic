@@ -5,7 +5,7 @@ After recent UI change from circle.so, all the comments are gone, you need to cl
 
 However, you can add a few line of Javascript code in your setting's page to automatically unfold comments when the page gets loaded. You will achieve something like this 👇
 
-![solution](https://firebasestorage.googleapis.com/v0/b/testimonialto.appspot.com/o/misc%2FScreen%20Shot%202021-02-01%20at%209.59.23%20PM.png?alt=media&token=a3bc81a1-7fa3-496b-955e-721740e42ba7)
+![solution](https://firebasestorage.googleapis.com/v0/b/testimonialto.appspot.com/o/misc%2FUPFIJ3CUGt.gif?alt=media&token=b0bfea7b-2936-4cbc-a143-1643acb1b91a)
 
 
 # Instructions
